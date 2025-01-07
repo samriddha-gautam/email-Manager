@@ -1,0 +1,6 @@
+
+.venv/
+emailManager/emailManager/config.py
+__pycache__/
+.vscode/
+emailManager/eManager/migrations/0001_initial.py
